@@ -80,7 +80,7 @@
   .flex-container {
     display: flex;
     justify-content: center;
-    background-color: rgb(160, 218, 44);
+    background-color: whitesmoke;
   }
   
   .flex-container > div {
