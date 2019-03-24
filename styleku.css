@@ -93,6 +93,11 @@
     color: rgb(160, 218, 44);
   }
 
+  .flex-container > div > img {
+    width: 100%;
+    height: auto;
+  }
+
   .flex-container > div > button {
     border: none;
     outline: 0;
