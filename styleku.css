@@ -95,7 +95,7 @@
 
   .flex-container > div > img {
     width: 100%;
-    height: auto;
+    height: 250px;
   }
 
   .flex-container > div > button {
